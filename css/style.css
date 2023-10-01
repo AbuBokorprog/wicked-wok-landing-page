@@ -22,3 +22,10 @@
   background-blend-mode: multiply;
   /* background-image: linear-gradient(to top, red, green); */
 }
+
+#menu {
+  background-image: url("/images/pexels-rdne-stock-project-4920855.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
