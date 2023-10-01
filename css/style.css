@@ -1,3 +1,9 @@
+* {
+  scroll-behavior: smooth;
+}
+/* .font-bold:active {
+  background-color: red;
+} */
 #banner-1 {
   background-image: url("/images/nathan-dumlao-6VhPY27jdps-unsplash.jpg");
   background-repeat: no-repeat;
@@ -25,6 +31,12 @@
 
 #menu {
   background-image: url("/images/pexels-rdne-stock-project-4920855.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+}
+#contact {
+  background-image: url("/images/pexels-gary-barnes-6231602\ \(1\).jpg");
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
