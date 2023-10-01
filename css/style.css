@@ -3,4 +3,22 @@
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+  background-blend-mode: multiply;
+  /* background-image: linear-gradient(to top, red, green); */
+}
+#banner-2 {
+  background-image: url("/images/pexels-gary-barnes-6231602.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-blend-mode: multiply;
+  /* background-image: linear-gradient(to top, red, green); */
+}
+#banner-3 {
+  background-image: url("/images/pexels-alex-green-5699508.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  background-blend-mode: multiply;
+  /* background-image: linear-gradient(to top, red, green); */
 }
